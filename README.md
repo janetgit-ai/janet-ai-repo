@@ -1,12 +1,12 @@
 # janet-ai-repo
 Janet's Github Repository for AI-powered projects, demos, and experiments.
-# Loan Doc eSign Migration – BA & AI Showcase
+# Loan Doc eSign – BA & AI Showcase
 
 This repository demonstrates **Business Analysis skills** applied to a real-world scenario:  
-**Migrating Loan Doc eSign integration from SOAP to REST APIs.**
+**Upgrade Loan application with Co-siner with eSign **
 
 The focus is on **requirements analysis** and using **AI tools** to accelerate the creation of:
-- Epics and user stories
+- User stories
 - Acceptance criteria (INVEST + Gherkin format)
 - Backlog/tickets (exportable to Jira or GitHub Issues)
 
